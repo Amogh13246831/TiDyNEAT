@@ -1,14 +1,5 @@
-A VALIDATION HEURISTIC FOR NEUROEVOLUTION ON LARGE DATASETS
-
-Machine Learning Project
-
-Sindhuja V Rai : 1MS16CS101  
-Amogh S Inamdar : 1MS16CS146
-Anagha M Rajeev : 1MS16CS152
-
-CSE VI 'C', RIT
-
-Updated on: 15/5/2019
+#Time Dynamic NEAT - A Validation Set-Based Heuristic for Neuroevolution on Large Datasets
+##Amogh Shreedhar Inamdar, Anagha M Rajeev, Sindhuja V Rai
 
 This project defines heuristics for data input to the NEAT algorithm.
 It compares the default neat-python implementation with heuristics and backpropagation using Keras on a classification task on a cardiovascular disease dataset.
