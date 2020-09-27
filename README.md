@@ -1,5 +1,5 @@
-#Time Dynamic NEAT - A Validation Set-Based Heuristic for Neuroevolution on Large Datasets
-##Amogh Shreedhar Inamdar, Anagha M Rajeev, Sindhuja V Rai
+# Time Dynamic NEAT - A Validation Set-Based Heuristic for Neuroevolution on Large Datasets
+## Amogh Shreedhar Inamdar, Anagha M Rajeev, Sindhuja V Rai
 
 This project defines heuristics for data input to the NEAT algorithm.
 It compares the default neat-python implementation with heuristics and backpropagation using Keras on a classification task on a cardiovascular disease dataset.
